@@ -1,0 +1,14 @@
+01-terraform-basics/.terraform/
+01-terraform-basics/terraform.tfstate
+01-terraform-basics/terraform.tfstate.backup
+02-more-terraform-basics/.terraform/
+02-more-terraform-basics/terraform.tfstate
+02-more-terraform-basics/terraform.tfstate.backup
+03-lists-and-sets/.terraform/
+03-lists-and-sets/terraform.tfstate
+03-lists-and-sets/terraform.tfstate.backup
+04-maps/.terraform/
+04-maps/terraform.tfstate
+04-maps/terraform.tfstate.backup
+*/backup/
+*/backup/
