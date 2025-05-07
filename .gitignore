@@ -10,5 +10,8 @@
 04-maps/.terraform/
 04-maps/terraform.tfstate
 04-maps/terraform.tfstate.backup
+05-ec2-instances/.terraform/
+05-ec2-instances/terraform.tfstate
+05-ec2-instances/terraform.tfstate.backup
 */backup/
 */backup/
